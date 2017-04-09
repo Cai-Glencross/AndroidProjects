@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="clear_list">Clear List</string>
+    <string name="balance_0">Balance = $0</string>
+    <string name="dollaSign">$</string>
+    <string name="balancePrecursor">Balance = $</string>
+    <string name="nameError">Please enter the Name!</string>
+    <string name="AmtError">Please enter the Amount!</string>
+    <string name="empty" />
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="DontFlagTxt">Don\'t Flag</string>
+    <string name="flagTxt">Flag</string>
+    <string name="bombsLeft">"Bombs Remaining: "</string>
+</resources>

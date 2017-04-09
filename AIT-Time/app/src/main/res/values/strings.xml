@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIT-Time</string>
+    <string name="show_time">Show time</string>
+    <string name="defaultText">Hello World!</string>
+</resources>
